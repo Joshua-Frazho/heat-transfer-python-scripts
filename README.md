@@ -1,8 +1,11 @@
 # heat-transfer-python-scripts
 ## Description
-GitHub repository containing example problems solved from an undergraduate heat transfer course using Python. Each script contains one problem, and each problem is a homework-style problem with the basic structure of Known, Objective, Solution, subsections Assumptions and Analysis under Solutions, and Significance. 
+GitHub repository containing example problems solved from an undergraduate heat transfer course using Python. Each script contains one problem, and each problem is a homework-style problem with the basic structure of Known, Objective, Solution, subsections Assumptions and Analysis under Solutions, and Significance.
+
 If any user-defined functions are used in a script, they will be listed in a section before Known called Functions. Known lists all given information, Objective outlines what to find, Assumptions (Solution) lists all assumptions made in analyzing the problem, Analysis solves for the objective, and Significance explains a broader point or principle illustrated by the problem.
+
 Each script was run as it was written, and due to their nature as homework problems, they are only written to find the specific objective outlined. A script would have to be modified to accomodate a wider variety of situations.
+
 Problems sourced from Bergman, T. L., and Lavine, A. S., 2017, *Fundamentals of Heat and Mass Transfer*, John Wiley and Sons, Inc.
 ## Contents
 ### Internal-Convection
